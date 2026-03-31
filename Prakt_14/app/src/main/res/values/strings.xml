@@ -4,4 +4,7 @@
     <string name="Acess">Вход не выполнен</string>
     <string name="Vhod">Войти</string>
     <string name="Registration">Регистрация</string>
+    <string name="Editalarm">Изменить будильник</string>
+    <string name="time">16:30</string>
+    <string name="date">14.01.2021</string>
 </resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Shablon1"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:text="@string/Profile"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginLeft="19dp"
+        android:layout_marginRight="112dp"
+        android:layout_marginTop="31dp">
+    </TextView>
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:src="@drawable/Back"
+        android:background="@color/Shablon1"
+        android:layout_marginLeft="299dp"
+        android:layout_marginRight="64dp">
+    </androidx.appcompat.widget.AppCompatImageButton>
+</TableLayout>
+</TableLayout>
