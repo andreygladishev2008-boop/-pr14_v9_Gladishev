@@ -4,7 +4,24 @@
     <string name="Acess">Вход не выполнен</string>
     <string name="Vhod">Войти</string>
     <string name="Registration">Регистрация</string>
-    <string name="Editalarm">Изменить будильник</string>
+    <string name="Addlarm">Добавить будильник</string>
     <string name="time">16:30</string>
     <string name="date">14.01.2021</string>
+    <string name="repeat">Повторять каждый</string>
+    <string name="Mon">Понидельник</string>
+    <string name="Tue">Вторник</string>
+    <string name="Wed">Среда</string>
+    <string name="Thu">Четверг</string>
+    <string name="Fri">Пятница</string>
+    <string name="Sat">Суббота</string>
+    <string name="Sun">Воскресенье</string>
+    <string name="Createalarm">Создать будильник</string>
+    <string name="Edittask">Изменить задачу</string>
+    <string name="Taskdescription">Описание задачи</string>
+    <string name="Activityname">Заголовок задачи</string>
+    <string name="DeleteActivity">Удалить задачу</string>
+    <string name="CreateActivity">Записать задачу</string>
+    <string name="LoginName">Имя пользователя</string>
+    <string name="LoginMail">Адрес электронной почты</string>
+    <string name="LoginPassword">Пароль</string>
 </resources>
